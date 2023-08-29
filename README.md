@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-NG-MATERO
+Angular Material
 </h1>
 
 <div align="center">

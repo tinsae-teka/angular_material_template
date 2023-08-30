@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ng-matero">
-    <img width="150" src="https://github.com/ng-matero/ng-matero/assets/20625845/fc05b2a7-8aae-4e6d-8cdc-4b438c1ff7b0">
+    <img width="150" src="https://github.com/tinsae-teka/angular_material_template/assets/20625845/fc05b2a7-8aae-4e6d-8cdc-4b438c1ff7b0">
   </a>
 </p>
 
@@ -12,15 +12,8 @@ Angular Material
 
 Ng-Matero is an Angular admin template made with Material components.
 
-[![CodeFactor](https://www.codefactor.io/repository/github/ng-matero/ng-matero/badge)](https://www.codefactor.io/repository/github/ng-matero/ng-matero)
-[![npm](https://img.shields.io/npm/v/ng-matero.svg)](https://www.npmjs.com/package/ng-matero)
-[![GitHub Release Date](https://img.shields.io/github/release-date/ng-matero/ng-matero)](https://github.com/ng-matero/ng-matero/releases)
-[![prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://prettier.io/)
-[![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/ng-matero/ng-matero/blob/master/LICENSE)
-[![Gitter](https://img.shields.io/gitter/room/ng-matero/ng-matero.svg)](https://gitter.im/matero-io/ng-matero)
-[![docs](https://img.shields.io/badge/docs-gitbook-red)](https://nzbin.gitbook.io/ng-matero/)
-[![Material Extensions](https://img.shields.io/badge/material-extensions-blue)](https://github.com/ng-matero/extensions#readme)
-[![Financial Contributors on Open Collective](https://opencollective.com/ng-matero/all/badge.svg?label=financial+contributors)](https://opencollective.com/ng-matero)
+[![CodeFactor](https://github.com/tinsae-teka/angular_material_template.git)](https://github.com/tinsae-teka/angular_material_template.git)
+
 
 </div>
 
